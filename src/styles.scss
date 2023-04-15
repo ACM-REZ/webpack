@@ -1,0 +1,14 @@
+.app {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 132, 255, 0.37);
+
+    p {
+        margin: 0;
+    }
+
+    &__img {
+        width: 200px;
+        height: 200px;
+    }
+}
